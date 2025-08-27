@@ -10,7 +10,7 @@ for research in computational topology and geoemetry.
 This seminar course introduces students to research in computational topology
 and geometry.  After taking this course, students will be able to:
 
-* Read and discuss recent research in the field..
+* Read and discuss recent research in the field.
 * Present (both orally and written) topics in computational topology and
   geometry to peers.
 
@@ -34,11 +34,12 @@ This repo contians the syllabus for this class.
 Your grade for this class will be determined by:
 
 - Participation in the seminar (almost every week)
-- Presenting in the seminar / leading a breakout room (at least three times
-  throughout the semester)
-- Notes and reflections from seminar meetings
-- Feedback to peers on presentations
+- Completing the onboarding tasks
+- Presenting in the seminar (at least once)
+- Notes and reflections from seminar meetings (recorded in your CompTaG journal)
+- Feedback to peers on presentations (recorded in your CompTaG journal)
 - Working on the open problems or background research beyond the confides of the seminar
+- Final reflection, due by the end of finals week.
 
 This seminar course is one (1) credit, which is about 50 hours of work throughout the
 semester. Please log your hours through the repo that we set-up in
