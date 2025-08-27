@@ -14,6 +14,14 @@ and geometry.  After taking this course, students will be able to:
 * Present (both orally and written) topics in computational topology and
   geometry to peers.
 
+## Prerequisites
+
+This seminar assumes that you are familiar with the following topics: set
+theory, vector spaces, runtime analysis, and basic data structures. A student in
+this class must be familiar with proof techniques, including proof by
+induction and proof by contradiction. Undergraduates must have earned a B+ or
+higher in a proofs class (CSCI 246 or M 242).
+
 ## When and Where?
 
 When? Please seee slack for details.
